@@ -1,8 +1,8 @@
 # Creating a firewall using virtual machines in a home lab
 
-Network Setup
-<img width="355" alt="image" src="https://github.com/lilkhaleef/Firewall/assets/145224160/e7c731eb-9ee5-4d11-923f-f348a45157fa">
 
+<img width="355" alt="image" src="https://github.com/lilkhaleef/Firewall/assets/145224160/e7c731eb-9ee5-4d11-923f-f348a45157fa">
+Network Setup
 
 Step 1: To set up the firewall, 3 virtual machines and networks was set up on VMware. First step was to create a Kali Linux VM and clone it twice to have 3 virtual machines (Kali Linux, Clone 1 and Clone 2). 
 
