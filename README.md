@@ -1,8 +1,6 @@
-# Firewall
-
 # Creating a firewall using virtual machines in a home lab
 
-# Network Setup
+Network Setup
 <img width="355" alt="image" src="https://github.com/lilkhaleef/Firewall/assets/145224160/e7c731eb-9ee5-4d11-923f-f348a45157fa">
 
 
